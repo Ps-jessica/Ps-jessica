@@ -1,0 +1,40 @@
+body {
+    background-color:#D5E1EF;
+}
+main{
+    max-width:350px;
+    background-color:white ;
+    margin:auto;
+    height: 550px;
+    border-radius:30px;
+    margin-top:20px;
+    text-align:center;
+    padding:20px 5px 10px 10px;
+    }
+    div{
+        width: 300px;
+        height: 300px;
+        margin:auto; 
+       
+       
+          }
+ img{
+     width:300px;
+     border-radius:10px;
+     }
+      
+  p{
+      text-weight:lighter;
+      margin-top:10px;
+  }
+  h2{
+      text-align:center;
+      color:#2C344B;
+      max-width:300px;
+      
+      
+    }
+    
+ 
+        
+                    
